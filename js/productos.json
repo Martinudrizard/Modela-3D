@@ -602,7 +602,7 @@
   {
     "id": "Decoracion-01",
     "titulo": "Decoracion 01",
-    "imagen": "./img/decoracion/01.jpg",
+    "imagen": "./imagenes/decoracion/decoracion-01.jpeg",
     "categoria": {
       "nombre": "Decoracion",
       "id": "decoracion"
@@ -612,7 +612,7 @@
   {
     "id": "Decoracion-02",
     "titulo": "Decoracion 02",
-    "imagen": "./img/decoracion/02.jpg",
+    "imagen": "./imagenes/decoracion/decoracion-02.jpeg",
     "categoria": {
       "nombre": "Decoracion",
       "id": "decoracion"
@@ -622,7 +622,7 @@
   {
     "id": "Decoracion-03",
     "titulo": "Decoracion 03",
-    "imagen": "./img/decoracion/03.jpg",
+    "imagen": "./imagenes/decoracion/decoracion-03.jpeg",
     "categoria": {
       "nombre": "Decoracion",
       "id": "decoracion"
