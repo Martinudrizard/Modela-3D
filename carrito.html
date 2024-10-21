@@ -83,30 +83,12 @@
               </button>
 
               <script>
-                // Asumiendo que tienes un array llamado "carrito" con los productos añadidos
-                const carrito = [
-                  { nombre: "Producto 1", cantidad: 2 },
-                  { nombre: "Producto 2", cantidad: 1 },
-                  // Agrega aquí más productos si es necesario
-                ];
-
                 function redirectToWhatsApp() {
                   const phoneNumber = "3447642471";
-
-                  // Mensaje base
-                  let message = "Hola Martin, Quiero encargarte:\n";
-
-                  // Recorremos el carrito para agregar los productos al mensaje
-                  carrito.forEach((producto) => {
-                    message += `- ${productos.id} (cantidad: ${producto.cantidad})\n`;
-                  });
-
-                  // Construir la URL de WhatsApp con el mensaje completo
+                  const message = "Hola Martin, Quiero realizar un pedido";
                   const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
                     message
                   )}`;
-
-                  // Abrir la URL en una nueva pestaña
                   window.open(url, "_blank");
                 }
               </script>
