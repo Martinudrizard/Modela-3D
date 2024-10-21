@@ -632,7 +632,7 @@
   {
     "id": "Decoracion-04",
     "titulo": "Decoracion 04",
-    "imagen": "./img/decoracion/04.jpg",
+    "imagen": "./imagenes/decoracion/decoracion-04.jpeg",
     "categoria": {
       "nombre": "Decoracion",
       "id": "decoracion"
@@ -642,13 +642,74 @@
   {
     "id": "Decoracion-05",
     "titulo": "Decoracion 05",
-    "imagen": "./img/decoracion/05.jpg",
+    "imagen": "./imagenes/decoracion/decoracion-05.jpeg",
     "categoria": {
       "nombre": "Decoracion",
       "id": "decoracion"
     },
     "precio": 1000
   },
+  {
+    "id": "Decoracion-06",
+    "titulo": "Decoracion 06",
+    "imagen": "./imagenes/decoracion/decoracion-06.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Decoracion-07",
+    "titulo": "Decoracion 07",
+    "imagen": "./imagenes/decoracion/decoracion-07.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Decoracion-08",
+    "titulo": "Decoracion 08",
+    "imagen": "./imagenes/decoracion/decoracion-08.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Decoracion-09",
+    "titulo": "Decoracion 09",
+    "imagen": "./imagenes/decoracion/decoracion-09.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Decoracion-10",
+    "titulo": "Decoracion 10",
+    "imagen": "./imagenes/decoracion/decoracion-10.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Decoracion-11",
+    "titulo": "Decoracion 11",
+    "imagen": "./imagenes/decoracion/decoracion-11.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 1000
+  },
+
   {
     "id": "Varios-01",
     "titulo": "Varios 01",
