@@ -1,0 +1,772 @@
+[
+  {
+    "id": "Maceta-01",
+    "titulo": "Maceta 01",
+    "imagen": "./imagenes/macetas/maceta-01.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-02",
+    "titulo": "Maceta 02",
+    "imagen": "./imagenes/macetas/maceta-02.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 5000
+  },
+  {
+    "id": "Maceta-03",
+    "titulo": "Maceta 03",
+    "imagen": "./imagenes/macetas/maceta-03.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Maceta-04",
+    "titulo": "Maceta 04",
+    "imagen": "./imagenes/macetas/maceta-04.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 12000
+  },
+  {
+    "id": "Maceta-05",
+    "titulo": "Maceta 05",
+    "imagen": "./imagenes/macetas/maceta-05.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 9000
+  },
+  {
+    "id": "Maceta-06",
+    "titulo": "Maceta 06",
+    "imagen": "./imagenes/macetas/maceta-06.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4200
+  },
+  {
+    "id": "Maceta-07",
+    "titulo": "Maceta 07",
+    "imagen": "./imagenes/macetas/maceta-07.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 9500
+  },
+  {
+    "id": "Maceta-08",
+    "titulo": "Maceta 08",
+    "imagen": "./imagenes/macetas/maceta-08.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4200
+  },
+  {
+    "id": "Maceta-09",
+    "titulo": "Maceta 09",
+    "imagen": "./imagenes/macetas/maceta-09.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 7500
+  },
+  {
+    "id": "Maceta-10",
+    "titulo": "Maceta 10",
+    "imagen": "./imagenes/macetas/maceta-10.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-11",
+    "titulo": "Maceta 11",
+    "imagen": "./imagenes/macetas/maceta-11.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 8500
+  },
+  {
+    "id": "Maceta-12",
+    "titulo": "Maceta 12",
+    "imagen": "./imagenes/macetas/maceta-12.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 9500
+  },
+  {
+    "id": "Maceta-13",
+    "titulo": "Maceta 13",
+    "imagen": "./imagenes/macetas/maceta-13.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4000
+  },
+  {
+    "id": "Maceta-14",
+    "titulo": "Maceta 14",
+    "imagen": "./imagenes/macetas/maceta-14.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 9500
+  },
+  {
+    "id": "Maceta-15",
+    "titulo": "Maceta 15",
+    "imagen": "./imagenes/macetas/maceta-15.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-16",
+    "titulo": "Maceta 16",
+    "imagen": "./imagenes/macetas/maceta-16.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-17",
+    "titulo": "Maceta 17",
+    "imagen": "./imagenes/macetas/maceta-17.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-18",
+    "titulo": "Maceta 18",
+    "imagen": "./imagenes/macetas/maceta-18.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-19",
+    "titulo": "Maceta 19",
+    "imagen": "./imagenes/macetas/maceta-19.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-20",
+    "titulo": "Maceta 20",
+    "imagen": "./imagenes/macetas/maceta-20.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-21",
+    "titulo": "Maceta 21",
+    "imagen": "./imagenes/macetas/maceta-21.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-22",
+    "titulo": "Maceta 22",
+    "imagen": "./imagenes/macetas/maceta-22.jpg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-23",
+    "titulo": "Maceta 23",
+    "imagen": "./imagenes/macetas/maceta-23.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-24",
+    "titulo": "Maceta 24",
+    "imagen": "./imagenes/macetas/maceta-24.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-24",
+    "titulo": "Maceta 24",
+    "imagen": "./imagenes/macetas/maceta-24.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-25",
+    "titulo": "Maceta 25",
+    "imagen": "./imagenes/macetas/maceta-25.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-26",
+    "titulo": "Maceta 26",
+    "imagen": "./imagenes/macetas/maceta-26.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-27",
+    "titulo": "Maceta 27",
+    "imagen": "./imagenes/macetas/maceta-27.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-28",
+    "titulo": "Maceta 28",
+    "imagen": "./imagenes/macetas/maceta-28.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-29",
+    "titulo": "Maceta 29",
+    "imagen": "./imagenes/macetas/maceta-29.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-30",
+    "titulo": "Maceta 30",
+    "imagen": "./imagenes/macetas/maceta-30.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-31",
+    "titulo": "Maceta 31",
+    "imagen": "./imagenes/macetas/maceta-31.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-32",
+    "titulo": "Maceta 32",
+    "imagen": "./imagenes/macetas/maceta-32.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-33",
+    "titulo": "Maceta 33",
+    "imagen": "./imagenes/macetas/maceta-33.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-34",
+    "titulo": "Maceta 34",
+    "imagen": "./imagenes/macetas/maceta-34.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-35",
+    "titulo": "Maceta 35",
+    "imagen": "./imagenes/macetas/maceta-35.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-36",
+    "titulo": "Maceta 36",
+    "imagen": "./imagenes/macetas/maceta-36.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-37",
+    "titulo": "Maceta 37",
+    "imagen": "./imagenes/macetas/maceta-37.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-38",
+    "titulo": "Maceta 38",
+    "imagen": "./imagenes/macetas/maceta-38.jpg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-39",
+    "titulo": "Maceta 39",
+    "imagen": "./imagenes/macetas/maceta-39.jpg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-40",
+    "titulo": "Maceta 40",
+    "imagen": "./imagenes/macetas/maceta-40.jpg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-41",
+    "titulo": "Maceta 41",
+    "imagen": "./imagenes/macetas/maceta-41.jpg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-42",
+    "titulo": "Maceta 42",
+    "imagen": "./imagenes/macetas/maceta-42.jpg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-43",
+    "titulo": "Maceta 43",
+    "imagen": "./imagenes/macetas/maceta-44.jpg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-45",
+    "titulo": "Maceta 45",
+    "imagen": "./imagenes/macetas/maceta-45.jpg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-46",
+    "titulo": "Maceta 46",
+    "imagen": "./imagenes/macetas/maceta-46.jpg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-47",
+    "titulo": "Maceta 47",
+    "imagen": "./imagenes/macetas/maceta-47.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-48",
+    "titulo": "Maceta 48",
+    "imagen": "./imagenes/macetas/maceta-48.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-49",
+    "titulo": "Maceta 49",
+    "imagen": "./imagenes/macetas/maceta-49.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-50",
+    "titulo": "Maceta 50",
+    "imagen": "./imagenes/macetas/maceta-50.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-51",
+    "titulo": "Maceta 51",
+    "imagen": "./imagenes/macetas/maceta-51.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-52",
+    "titulo": "Maceta 52",
+    "imagen": "./imagenes/macetas/maceta-52.png",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Maceta-53",
+    "titulo": "Maceta 53",
+    "imagen": "./imagenes/macetas/maceta-53.jpg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 4500
+  },
+  {
+    "id": "Lampara-01",
+    "titulo": "Lampara 01",
+    "imagen": "./imagenes/lamparas/lampara-01.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Lampara-02",
+    "titulo": "Lampara 02",
+    "imagen": "./imagenes/lamparas/lampara-02.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Lampara-03",
+    "titulo": "Lampara 03",
+    "imagen": "./imagenes/lamparas/lampara-03.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Lampara-04",
+    "titulo": "Lampara 04",
+    "imagen": "./imagenes/lamparas/lampara-04.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Lampara-05",
+    "titulo": "Lampara 05",
+    "imagen": "./imagenes/lamparas/lampara-05.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Lampara-06",
+    "titulo": "Lampara 06",
+    "imagen": "./imagenes/lamparas/lampara-06.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Lampara-07",
+    "titulo": "Lampara 07",
+    "imagen": "./imagenes/lamparas/lampara-07.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Lampara-08",
+    "titulo": "Lampara 08",
+    "imagen": "./imagenes/lamparas/lampara-08.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Decoracion-01",
+    "titulo": "Decoracion 01",
+    "imagen": "./img/decoracion/01.jpg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Decoracion-02",
+    "titulo": "Decoracion 02",
+    "imagen": "./img/decoracion/02.jpg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Decoracion-03",
+    "titulo": "Decoracion 03",
+    "imagen": "./img/decoracion/03.jpg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Decoracion-04",
+    "titulo": "Decoracion 04",
+    "imagen": "./img/decoracion/04.jpg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Decoracion-05",
+    "titulo": "Decoracion 05",
+    "imagen": "./img/decoracion/05.jpg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Varios-01",
+    "titulo": "Varios 01",
+    "imagen": "./imagenes/varios/varios-01.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Varios-02",
+    "titulo": "Varios 02",
+    "imagen": "./imagenes/varios/varios-02.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Varios-03",
+    "titulo": "Varios 03",
+    "imagen": "./imagenes/varios/varios-03.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Varios-04",
+    "titulo": "Varios 04",
+    "imagen": "./imagenes/varios/varios-04.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Varios-05",
+    "titulo": "Varios 05",
+    "imagen": "./imagenes/varios/varios-05.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Varios-06",
+    "titulo": "Varios 06",
+    "imagen": "./imagenes/varios/varios-06.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Varios-07",
+    "titulo": "Varios 07",
+    "imagen": "./imagenes/varios/varios-07.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Varios-08",
+    "titulo": "Varios 08",
+    "imagen": "./imagenes/varios/varios-08.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Varios-09",
+    "titulo": "Varios 09",
+    "imagen": "./imagenes/varios/varios-09.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Varios-10",
+    "titulo": "Varios 10",
+    "imagen": "./imagenes/varios/varios-10.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Varios-11",
+    "titulo": "Varios 11",
+    "imagen": "./imagenes/varios/varios-11.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 1000
+  }
+]
