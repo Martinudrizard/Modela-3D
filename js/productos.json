@@ -527,7 +527,7 @@
       "nombre": "Lamparas",
       "id": "lamparas"
     },
-    "precio": 1000
+    "precio": 20000
   },
   {
     "id": "Lampara-02",
@@ -537,7 +537,7 @@
       "nombre": "Lamparas",
       "id": "lamparas"
     },
-    "precio": 1000
+    "precio": 22000
   },
   {
     "id": "Lampara-03",
@@ -547,7 +547,7 @@
       "nombre": "Lamparas",
       "id": "lamparas"
     },
-    "precio": 1000
+    "precio": 25000
   },
   {
     "id": "Lampara-04",
@@ -557,7 +557,7 @@
       "nombre": "Lamparas",
       "id": "lamparas"
     },
-    "precio": 1000
+    "precio": 20000
   },
   {
     "id": "Lampara-05",
@@ -567,7 +567,7 @@
       "nombre": "Lamparas",
       "id": "lamparas"
     },
-    "precio": 1000
+    "precio": 22500
   },
   {
     "id": "Lampara-06",
@@ -577,7 +577,7 @@
       "nombre": "Lamparas",
       "id": "lamparas"
     },
-    "precio": 1000
+    "precio": 23000
   },
   {
     "id": "Lampara-07",
@@ -587,7 +587,7 @@
       "nombre": "Lamparas",
       "id": "lamparas"
     },
-    "precio": 1000
+    "precio": 20000
   },
   {
     "id": "Lampara-08",
@@ -597,7 +597,7 @@
       "nombre": "Lamparas",
       "id": "lamparas"
     },
-    "precio": 1000
+    "precio": 22000
   },
   {
     "id": "Decoracion-01",
@@ -607,7 +607,7 @@
       "nombre": "Decoracion",
       "id": "decoracion"
     },
-    "precio": 1000
+    "precio": 6800
   },
   {
     "id": "Decoracion-02",
@@ -617,7 +617,7 @@
       "nombre": "Decoracion",
       "id": "decoracion"
     },
-    "precio": 1000
+    "precio": 5000
   },
   {
     "id": "Decoracion-03",
@@ -627,7 +627,7 @@
       "nombre": "Decoracion",
       "id": "decoracion"
     },
-    "precio": 1000
+    "precio": 7000
   },
   {
     "id": "Decoracion-04",
@@ -637,7 +637,7 @@
       "nombre": "Decoracion",
       "id": "decoracion"
     },
-    "precio": 1000
+    "precio": 7500
   },
   {
     "id": "Decoracion-05",
@@ -647,7 +647,7 @@
       "nombre": "Decoracion",
       "id": "decoracion"
     },
-    "precio": 1000
+    "precio": 7500
   },
   {
     "id": "Decoracion-06",
@@ -657,7 +657,7 @@
       "nombre": "Decoracion",
       "id": "decoracion"
     },
-    "precio": 1000
+    "precio": 8000
   },
   {
     "id": "Decoracion-07",
@@ -667,7 +667,7 @@
       "nombre": "Decoracion",
       "id": "decoracion"
     },
-    "precio": 1000
+    "precio": 8000
   },
   {
     "id": "Decoracion-08",
@@ -677,7 +677,7 @@
       "nombre": "Decoracion",
       "id": "decoracion"
     },
-    "precio": 1000
+    "precio": 8000
   },
   {
     "id": "Decoracion-09",
@@ -687,7 +687,7 @@
       "nombre": "Decoracion",
       "id": "decoracion"
     },
-    "precio": 1000
+    "precio": 12000
   },
   {
     "id": "Decoracion-10",
@@ -697,7 +697,7 @@
       "nombre": "Decoracion",
       "id": "decoracion"
     },
-    "precio": 1000
+    "precio": 9000
   },
   {
     "id": "Decoracion-11",
@@ -707,7 +707,7 @@
       "nombre": "Decoracion",
       "id": "decoracion"
     },
-    "precio": 1000
+    "precio": 8500
   },
 
   {
@@ -718,7 +718,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 8000
   },
   {
     "id": "Varios-02",
@@ -728,7 +728,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 8000
   },
   {
     "id": "Varios-03",
@@ -738,7 +738,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 12000
   },
   {
     "id": "Varios-04",
@@ -748,7 +748,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 7000
   },
   {
     "id": "Varios-05",
@@ -758,7 +758,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 4000
   },
   {
     "id": "Varios-06",
@@ -768,7 +768,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 8000
   },
   {
     "id": "Varios-07",
@@ -778,7 +778,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 9000
   },
   {
     "id": "Varios-08",
@@ -788,7 +788,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 13000
   },
   {
     "id": "Varios-09",
@@ -798,7 +798,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 6000
   },
   {
     "id": "Varios-10",
@@ -808,7 +808,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 9000
   },
   {
     "id": "Varios-11",
@@ -818,7 +818,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 7000
   },
   {
     "id": "Varios-12",
@@ -828,7 +828,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 7500
   },
   {
     "id": "Varios-13",
@@ -838,7 +838,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 5000
   },
   {
     "id": "Varios-14",
@@ -848,7 +848,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 5000
   },
   {
     "id": "Varios-15",
@@ -858,7 +858,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 7000
   },
   {
     "id": "Varios-16",
@@ -868,7 +868,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 8000
   },
   {
     "id": "Varios-17",
@@ -888,7 +888,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 3500
   },
   {
     "id": "Varios-19",
@@ -898,7 +898,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 4000
   },
   {
     "id": "Varios-20",
@@ -908,7 +908,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 3000
   },
   {
     "id": "Varios-21",
@@ -918,7 +918,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 10000
   },
   {
     "id": "Varios-22",
@@ -928,7 +928,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 3000
   },
   {
     "id": "Varios-23",
@@ -938,7 +938,7 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 3000
   },
   {
     "id": "Varios-24",
@@ -948,6 +948,6 @@
       "nombre": "Varios",
       "id": "varios"
     },
-    "precio": 1000
+    "precio": 4000
   }
 ]
