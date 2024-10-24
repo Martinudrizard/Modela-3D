@@ -85,7 +85,19 @@
               <script>
                 function redirectToWhatsApp() {
                   const phoneNumber = "3447642471";
-                  const message = "Hola Martin, Quiero realizar un pedido";
+                  let message = "Hola Martin, Quiero realizar un pedido:\n";
+
+                  productosEnCarrito.forEach((producto) => {
+                    message += `- ${producto.titulo} (Cantidad: ${producto.cantidad})\n`;
+                  });
+
+                  const total = productosEnCarrito.reduce(
+                    (acc, producto) =>
+                      acc + producto.precio * producto.cantidad,
+                    0
+                  );
+                  message += `Total a pagar: $${total}`;
+
                   const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
                     message
                   )}`;
