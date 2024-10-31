@@ -880,6 +880,136 @@
     "precio": 28000
   },
   {
+    "id": "Lampara-37",
+    "titulo": "Lampara 37",
+    "imagen": "./imagenes/lamparas/lampara-37.png",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 20000
+  },
+  {
+    "id": "Lampara-38",
+    "titulo": "Lampara 38",
+    "imagen": "./imagenes/lamparas/lampara-38.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 25000
+  },
+  {
+    "id": "Lampara-39",
+    "titulo": "Lampara 39",
+    "imagen": "./imagenes/lamparas/lampara-39.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 25000
+  },
+  {
+    "id": "Lampara-40",
+    "titulo": "Lampara 40",
+    "imagen": "./imagenes/lamparas/lampara-40.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 26500
+  },
+  {
+    "id": "Lampara-41",
+    "titulo": "Lampara 41",
+    "imagen": "./imagenes/lamparas/lampara-41.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 26500
+  },
+  {
+    "id": "Lampara-42",
+    "titulo": "Lampara 42",
+    "imagen": "./imagenes/lamparas/lampara-42.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 25000
+  },
+  {
+    "id": "Lampara-43",
+    "titulo": "Lampara 43",
+    "imagen": "./imagenes/lamparas/lampara-43.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 22000
+  },
+  {
+    "id": "Lampara-44",
+    "titulo": "Lampara 44",
+    "imagen": "./imagenes/lamparas/lampara-44.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 22000
+  },
+  {
+    "id": "Lampara-45",
+    "titulo": "Lampara 45",
+    "imagen": "./imagenes/lamparas/lampara-45.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 28000
+  },
+  {
+    "id": "Lampara-46",
+    "titulo": "Lampara 46",
+    "imagen": "./imagenes/lamparas/lampara-46.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 25000
+  },
+  {
+    "id": "Lampara-47",
+    "titulo": "Lampara 47",
+    "imagen": "./imagenes/lamparas/lampara-47.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 24500
+  },
+  {
+    "id": "Lampara-48",
+    "titulo": "Lampara 48",
+    "imagen": "./imagenes/lamparas/lampara-48.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 26000
+  },
+  {
+    "id": "Lampara-49",
+    "titulo": "Lampara 49",
+    "imagen": "./imagenes/lamparas/lampara-49.jpeg",
+    "categoria": {
+      "nombre": "Lamparas",
+      "id": "lamparas"
+    },
+    "precio": 28000
+  },
+  {
     "id": "Decoracion-01",
     "titulo": "Decoracion 01",
     "imagen": "./imagenes/decoracion/decoracion-01.jpeg",
