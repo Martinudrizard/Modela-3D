@@ -520,6 +520,46 @@
     "precio": 13000
   },
   {
+    "id": "Maceta-54",
+    "titulo": "Maceta 54",
+    "imagen": "./imagenes/macetas/maceta-54.png",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 13000
+  },
+  {
+    "id": "Maceta-55",
+    "titulo": "Maceta 55",
+    "imagen": "./imagenes/macetas/maceta-55.png",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 13000
+  },
+  {
+    "id": "Maceta-56",
+    "titulo": "Maceta 56",
+    "imagen": "./imagenes/macetas/maceta-56.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 13000
+  },
+  {
+    "id": "Maceta-57",
+    "titulo": "Maceta 57",
+    "imagen": "./imagenes/macetas/maceta-57.jpeg",
+    "categoria": {
+      "nombre": "Macetas",
+      "id": "macetas"
+    },
+    "precio": 13000
+  },
+  {
     "id": "Lampara-01",
     "titulo": "Lampara 01",
     "imagen": "./imagenes/lamparas/lampara-01.jpeg",
