@@ -27,7 +27,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 6000
+    "precio": 4000
   },
   {
     "id": "Maceta-04",
@@ -47,7 +47,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 9000
+    "precio": 7000
   },
   {
     "id": "Maceta-06",
@@ -87,7 +87,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 7500
+    "precio": 6000
   },
   {
     "id": "Maceta-10",
@@ -107,7 +107,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 8500
+    "precio": 7300
   },
   {
     "id": "Maceta-12",
@@ -117,7 +117,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 9500
+    "precio": 7300
   },
   {
     "id": "Maceta-13",
@@ -247,7 +247,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 6000
+    "precio": 5000
   },
   {
     "id": "Maceta-26",
@@ -257,7 +257,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 9000
+    "precio": 7500
   },
   {
     "id": "Maceta-27",
@@ -267,7 +267,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 8500
+    "precio": 6000
   },
   {
     "id": "Maceta-28",
@@ -307,7 +307,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 7000
+    "precio": 4500
   },
   {
     "id": "Maceta-32",
@@ -337,7 +337,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 45500
+    "precio": 4500
   },
   {
     "id": "Maceta-35",
@@ -347,7 +347,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 7500
+    "precio": 6500
   },
   {
     "id": "Maceta-36",
@@ -377,7 +377,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 8500
+    "precio": 5500
   },
   {
     "id": "Maceta-39",
@@ -387,7 +387,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 8500
+    "precio": 6500
   },
   {
     "id": "Maceta-40",
@@ -427,7 +427,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 9200
+    "precio": 6200
   },
   {
     "id": "Maceta-45",
@@ -437,7 +437,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 9000
+    "precio": 8000
   },
   {
     "id": "Maceta-46",
@@ -517,7 +517,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 13000
+    "precio": 7000
   },
   {
     "id": "Maceta-54",
@@ -527,7 +527,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 13000
+    "precio": 5000
   },
   {
     "id": "Maceta-55",
@@ -547,7 +547,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 13000
+    "precio": 5500
   },
   {
     "id": "Maceta-57",
@@ -557,7 +557,7 @@
       "nombre": "Macetas",
       "id": "macetas"
     },
-    "precio": 13000
+    "precio": 6000
   },
   {
     "id": "Lampara-01",
