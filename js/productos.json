@@ -1159,7 +1159,126 @@
     },
     "precio": 8500
   },
-
+  {
+    "id": "Decoracion-12",
+    "titulo": "Decoracion 12",
+    "imagen": "./imagenes/decoracion/decoracion-12.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 21000
+  },
+  {
+    "id": "Decoracion-13",
+    "titulo": "Decoracion 13",
+    "imagen": "./imagenes/decoracion/decoracion-13.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 8500
+  },
+  {
+    "id": "Decoracion-14",
+    "titulo": "Decoracion 14",
+    "imagen": "./imagenes/decoracion/decoracion-14.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 8500
+  },
+  {
+    "id": "Decoracion-15",
+    "titulo": "Decoracion 15",
+    "imagen": "./imagenes/decoracion/decoracion-15.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 7800
+  },
+  {
+    "id": "Decoracion-16",
+    "titulo": "Decoracion 16",
+    "imagen": "./imagenes/decoracion/decoracion-16.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 9200
+  },
+  {
+    "id": "Decoracion-17",
+    "titulo": "Decoracion 17",
+    "imagen": "./imagenes/decoracion/decoracion-17.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 7200
+  },
+  {
+    "id": "Decoracion-18",
+    "titulo": "Decoracion 18",
+    "imagen": "./imagenes/decoracion/decoracion-18.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 8500
+  },
+  {
+    "id": "Decoracion-19",
+    "titulo": "Decoracion 19",
+    "imagen": "./imagenes/decoracion/decoracion-19.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 5000
+  },
+  {
+    "id": "Decoracion-20",
+    "titulo": "Decoracion 20",
+    "imagen": "./imagenes/decoracion/decoracion-20.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 25000
+  },
+  {
+    "id": "Decoracion-21",
+    "titulo": "Decoracion 21",
+    "imagen": "./imagenes/decoracion/decoracion-21.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 5300
+  },
+  {
+    "id": "Decoracion-22",
+    "titulo": "Decoracion 22",
+    "imagen": "./imagenes/decoracion/decoracion-22.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 7000
+  },
+  {
+    "id": "Decoracion-23",
+    "titulo": "Decoracion 23",
+    "imagen": "./imagenes/decoracion/decoracion-23.jpeg",
+    "categoria": {
+      "nombre": "Decoracion",
+      "id": "decoracion"
+    },
+    "precio": 7200
+  },
   {
     "id": "Varios-01",
     "titulo": "Varios 01",
