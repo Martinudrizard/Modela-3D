@@ -1518,5 +1518,65 @@
       "id": "varios"
     },
     "precio": 4000
+  },
+  {
+    "id": "Varios-25",
+    "titulo": "Varios 25",
+    "imagen": "./imagenes/varios/varios-25.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 3000
+  },
+  {
+    "id": "Varios-26",
+    "titulo": "Varios 26",
+    "imagen": "./imagenes/varios/varios-26.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 3000
+  },
+  {
+    "id": "Varios-27",
+    "titulo": "Varios 27",
+    "imagen": "./imagenes/varios/varios-27.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 3000
+  },
+  {
+    "id": "Varios-29",
+    "titulo": "Varios 29",
+    "imagen": "./imagenes/varios/varios-29.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 3000
+  },
+  {
+    "id": "Varios-30",
+    "titulo": "Varios 30",
+    "imagen": "./imagenes/varios/varios-30.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 3000
+  },
+  {
+    "id": "Varios-31",
+    "titulo": "Varios 31",
+    "imagen": "./imagenes/varios/varios-31.jpeg",
+    "categoria": {
+      "nombre": "Varios",
+      "id": "varios"
+    },
+    "precio": 3000
   }
 ]
